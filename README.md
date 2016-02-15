@@ -11,8 +11,8 @@ $ git clone git@github.com:team-hurricane/minagine_renew.git
 
 Step 2: Create database.yml and secrets.yml
 ```
-$ cp config/database.yml.example config/database.yml
-$ cp config/secrets.yml.example config/secrets.yml
+$ cp config/database.yml.sample config/database.yml
+$ cp config/secrets.yml.sample config/secrets.yml
 ```
 
 Step 3: Install gem dependencies
