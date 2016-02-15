@@ -32,6 +32,7 @@ gem 'logstash-logger', '~> 0.15.2'
 gem 'devise', '~> 3.5.2'
 gem 'cancancan', '~> 1.12.0'
 gem 'rolify', '~> 4.1.1'
+gem 'cells', "~> 4.0.0"
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
